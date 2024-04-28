@@ -8,8 +8,8 @@ Playability:
 - Sheep Spawns are decreased overtime. As time passes sheeps spawn faster.
 - Sheeps speed is also defined by a random interval.
 - Added more sheepspawns to increase difficulty.
-- HayBale shooting interval decreases as time passes. So, u can shoot more bales in less time.
-- HayMachine horizontal movement speed increases as time pass, so u can move faster.
+- HayBale shooting interval decreases over time. So, u can shoot more bales in less time.
+- HayMachine horizontal movement speed increase as time pass, so u can move faster.
 - HayMachine can ran over the sheeps to ease the job to collect them.
 
 Features:
@@ -19,10 +19,11 @@ Features:
 	- Added fireworks to make it more cartoonish.
 	- Added some fireballs to the bales shot to make it more visual.
 	- Added some interactive walls that delimit the playable area that fall when are touched.
+	- Added heart rotation when sheep is collected.
 	- Instructed the sheeps to jump.
 - Added sound effects:
-	- shooting, receiving damage, sheep falling and background music for main menu and game scene.
-	- shortened original game scene music for optimization and compression.
+	- Added for shooting, sheep collected, sheep falling and background music for main menu and game scene.
+	- Shortened original game scene music for optimization and compression.
 - Added Chronometer at the top.
 
 
