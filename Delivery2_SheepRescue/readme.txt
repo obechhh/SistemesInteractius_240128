@@ -25,8 +25,7 @@ Features:
 	- Added for shooting, sheep collected, sheep falling and background music for main menu and game scene.
 	- Shortened original game scene music for optimization and compression.
 - Added Chronometer at the top.
-
-
+- VSYNC set to half the refresh-rate of the screen to reduce GPU load and avoid stutters.
 
 Hint:
 Remember u can ran over sheeps and keep spacebar pressed to collect sheeps faster. 
