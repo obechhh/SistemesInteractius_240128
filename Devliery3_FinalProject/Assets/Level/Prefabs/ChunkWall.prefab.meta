@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 133dbea28ccf5bb4bbc6fedc9ef1b39d
+labels:
+- Destructible
+- Destruction
+- Wall
+- Brick
+- Physics
+NativeFormatImporter:
+  userData: 
